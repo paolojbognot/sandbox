@@ -5,15 +5,16 @@ A simple sandbox repo for generic GitHub practice
 Do you see me now?
 
 ## To-Do List
-- [] Install MongoDB
-- [] Install MySQL
-- [] Upload TLM projects to GitHub
+- [x] Install MongoDB
+- [ ] Install MySQL
+- [ ] Upload TLM projects to GitHub
     - Delete all package-lock.json files
     - Refactor TLM projects to use proper CDN paths
     - Test
     - Update the documentation
 - [] Document `Mac Setup Process`
-    - [] Create a repo for this
-    - [] Catalog and document settings
-    - [] Map out a proper sequence
-    - [] Take screenshots
+    - [x] Create a repo for this
+    - [x] Catalog and document settings
+    - [x] Map out a proper sequence
+    - [ ] Take screenshots
+    - [ ] Make note of zSh being default shell
